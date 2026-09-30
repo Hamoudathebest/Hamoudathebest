@@ -7,14 +7,6 @@ Currently exploring:
 - Developer tools and infrastructure
 - Minecraft server tooling
 
-### Selected work
-
-- **Infinity Craft** — Discord control panel for a Minecraft server.
-- **SafeTravel DZ** — Multilingual travel app prototype.
-- **What Should We Cook?** — Food-tech app with a FastAPI backend.
-- **Golden Age Care** — Web app prototype built with Next.js.
-- **Xentro** — Chat and music project.
-
 ### Tools
 
 <p>
